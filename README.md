@@ -1,5 +1,5 @@
 <figure>
-<img src="eQTLsingle_overview.png" style="width:100.0%" alt="" /><figcaption>eQTLsingle_overview</figcaption>
+<img src="./vignettes/eQTLsingle_overview.png" style="width:100.0%" alt="" /><figcaption>eQTLsingle_overview</figcaption>
 </figure>
 
 Introduction
@@ -136,7 +136,7 @@ eQTLsingle_visualization(eQTL.result.target,toy_expressionMatrix, snv.gene.pair.
 ```
 
 <figure>
-<img src="visualization_plot.png" style="width:100.0%" alt="" /><figcaption>visualization_plot</figcaption>
+<img src="./vignettes/visualization_plot.png" style="width:100.0%" alt="" /><figcaption>visualization_plot</figcaption>
 </figure>
 
 Mode 2: Raw-data mode
