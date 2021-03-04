@@ -5,8 +5,7 @@
 Introduction
 ------------
 
-**`eQTLsingle`** is an R package for **discovering eQTLs from scRNA-seq
-data only**. It detects mutations from scRNA-seq data and models gene
+**`eQTLsingle`** is an R package for **discovering eQTLs only with single cell RNA-seq (scRNA-seq) data, without genomic data**. It detects mutations from scRNA-seq data and models gene
 expression of different genotypes with the zero-inflated negative
 binomial (ZINB) model to find associations between genotypes and
 phenotypes at single-cell level.
