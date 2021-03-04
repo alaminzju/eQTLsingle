@@ -136,7 +136,7 @@ eQTLsingle_visualization(eQTL.result.target,toy_expressionMatrix, snv.gene.pair.
 ```
 
 <figure>
-<img src="./vignettes/visualization_plot.png" style="width:50.0%" alt="" /><figcaption>visualization_plot</figcaption>
+<img src="./vignettes/visualization_plot.png" width="200" alt="" /><figcaption>visualization_plot</figcaption>
 </figure>
 
 Mode 2: Raw-data mode
